@@ -4,7 +4,6 @@
 - 🏫 Instituição: Etec Uirapuru
 - 📚 Leitora
 - 📧 Entre em contato comigo: jadesampaiomelo@gmail.com
-- ℹ️ Linkedin: www.linkedin.com/in/jade-melo-178074358
 
   
 
