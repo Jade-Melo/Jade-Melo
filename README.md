@@ -1,4 +1,4 @@
-## Oii! Sou Jade Melo! 💕
+## Oii! Sou Jade Melo! 🌸
 
 - 👩‍💻 Estudante do curso Desenvolvimento de Sistemas
 - 🏫 Instituição: Etec Uirapuru
