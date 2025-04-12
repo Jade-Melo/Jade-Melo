@@ -3,6 +3,7 @@
 - 👩‍💻 Estudante do curso Desenvolvimento de Sistemas
 - 🏫 Instituição: Etec Uirapuru
 - 📚 Leitora
+- 🎀 A girl studying to be a programmer
 - 📧 Entre em contato comigo: jadesampaiomelo@gmail.com
 
   
