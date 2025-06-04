@@ -1,9 +1,9 @@
-## Oii! Sou Jade Melo! 🌸
+## Jade Melo
 
-- 👩‍💻 Estudante do curso Desenvolvimento de Sistemas
-- 🏫 Instituição: Etec Uirapuru
-- 📚 Leitora
-- 🎀 A girl studying to be a programmer
+Cursando Atualmente:
+- 👩🏻‍💻 Desenvolvimento de Sistemas - Etec Uirapuru
+- 💻 DIO Bootcamp - Cloud Computing com IA
+- 💬 Inglês - Fluency Academy
 - 📧 Entre em contato comigo: jadesampaiomelo@gmail.com
 
   
