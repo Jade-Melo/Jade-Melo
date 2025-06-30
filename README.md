@@ -2,7 +2,7 @@
 
 Cursando Atualmente:
 - 👩🏻‍💻 Desenvolvimento de Sistemas - Etec Uirapuru
-- 💻 DIO Bootcamp - Cloud Computing com IA
+- 💻 Bootcamp - Cloud Computing com IA
 - 💬 Inglês - Fluency Academy
 - 📧 Entre em contato comigo: jadesampaiomelo@gmail.com
 
