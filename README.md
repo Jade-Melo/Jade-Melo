@@ -1,4 +1,4 @@
-## Jade Melo
+## ☕ Oie! Sou Jade Melo!
 
 Cursando Atualmente:
 - 👩🏻‍💻 Desenvolvimento de Sistemas - Etec Uirapuru
