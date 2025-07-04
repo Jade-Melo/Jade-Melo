@@ -3,7 +3,7 @@
 👩🏻‍💻 Atualmente cursando Desenvolvimento de Sistemas na Etec Uirapuru. 
 Sou apaixonada pelo mundo da tecnologia e pretendo me tornar Dev FullStack e Engenheira de Software
   
-## 💁🏻‍♀️ Sobre Mim:
+## 👩🏻‍🎓 Sobre Mim:
 - 🎯 Focada
 - 💻 Sempre em busca de novos aprendizados na carreira Tech
 - 📚 Adoro ler livros - Gênero literário favorito: Fantasia
