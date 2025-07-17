@@ -4,9 +4,8 @@
 Sou apaixonada pelo mundo da tecnologia e pretendo me tornar Dev FullStack e Engenheira de Software
   
 ## 👩🏻‍🎓 Sobre Mim:
-- 🎯 Focada
+- 🎯 Proativa, capacidade analítica, raciocínio lógico
 - 💻 Sempre em busca de novos aprendizados na carreira Tech
-- 📚 Adoro ler livros - Gênero literário favorito: Fantasia
 - 📧 Entre em contato comigo: jadesampaiomelo@gmail.com
 
 ## Tecnologias e Ferramentas
