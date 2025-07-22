@@ -22,5 +22,4 @@ Sou apaixonada pelo mundo da tecnologia e pretendo me tornar Dev FullStack e Eng
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jade-Melo&layout=compact&theme=dracula) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jade-Melo&show_icons=true&theme=dracula)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jade-Melo&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jade-Melo&layout=compact&theme=dracula) 
