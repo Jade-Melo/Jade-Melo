@@ -21,6 +21,6 @@ Sou apaixonada pelo mundo da tecnologia e pretendo me tornar Dev FullStack e Eng
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
 
 ## 📊 GitHub Stats
-![Jade Melo's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Jade-Melo&show_icons=true&theme=cobalt) ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jade-Melo&layout=compact&theme=cobalt)
+![Jade Melo's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Jade-Melo&show_icons=true&theme=cobalt)![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jade-Melo&layout=compact&theme=cobalt)
 
 
