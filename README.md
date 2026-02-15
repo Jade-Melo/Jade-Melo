@@ -1,14 +1,31 @@
 ## ☕ Oie! Sou Jade Melo!
-
-👩🏻‍💻 Atualmente cursando Desenvolvimento de Sistemas na Etec Uirapuru. 
-Sou apaixonada pelo mundo da tecnologia e pretendo me tornar Dev FullStack e Engenheira de Software
   
 ## 👩🏻‍🎓 Sobre Mim:
-- 🎯 Proativa, capacidade analítica, raciocínio lógico
-- 💻 Sempre em busca de novos aprendizados na carreira Tech
+- 💻 Estudante do Curso Técnico em Desenvolvimento de Sistemas
+- 👩‍🎓 Sou apaixonada pelo mundo da tecnologia, café e livros de fantasia
 - 📧 Entre em contato comigo: jadesampaiomelo@gmail.com
 
-## Tecnologias e Ferramentas
+- 📈 Estou em constante evolução para atuar na Engenharia de Software, com foco em **desenvolvimento Full Stack.**
+
+---
+
+## 💡💼 Habilidades Técnicas
+- 💻 Front-end simples (HTML, CSS e JavaScript)
+- 📊 Banco de Dados MySQL (Consultas, modelagem e integração no banco de dados relacional)
+
+
+---
+
+## 🧠 Competências interpessoais
+🎯 Proativa<br>
+💡 Capacidade Analítica<br>
+🧩 Raciocínio lógico<br>
+🔄 Adaptável a desafios<br>
+🤝 Empatia, colaboração e comunicação em equipes
+
+---
+
+## 🧰 Stack de Tecnologias e Ferramentas
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
