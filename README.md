@@ -8,14 +8,14 @@
 
 ---
 
-## 💡💼 Habilidades Técnicas
+## 💡 Hard Skills
 - 💻 Front-end simples (HTML, CSS e JavaScript)
 - 📊 Banco de Dados MySQL (Consultas, modelagem e integração no banco de dados relacional)
 
 
 ---
 
-## 🧠 Competências interpessoais
+## 🧠 Soft Skills
 🎯 Proativa<br>
 💡 Capacidade Analítica<br>
 🧩 Raciocínio lógico<br>
