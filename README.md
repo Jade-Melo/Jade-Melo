@@ -17,6 +17,7 @@
 
 ## 🧠 Soft Skills
 🎯 Proativa<br>
+📚 Autodidata<br>
 💡 Capacidade Analítica<br>
 🧩 Raciocínio lógico<br>
 🔄 Adaptável a desafios<br>
