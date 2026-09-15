@@ -9,8 +9,8 @@
 ---
 
 ## 💡 Hard Skills
-- 💻 Front-end simples (HTML, CSS e JavaScript)
-- 📊 Banco de Dados MySQL (Consultas, modelagem e integração no banco de dados relacional)
+- 💻 **Linguagens de programação:** HTML, CSS, JavaScript, PHP, C++, Java
+- 📊 **Banco de Dados MySQL** (Consultas, modelagem e integração no banco de dados relacional)
 
 
 ---
