@@ -2,7 +2,7 @@
   
 ## 👩🏻‍🎓 Sobre Mim:
 - 💻 Estudante do Curso Técnico em Desenvolvimento de Sistemas
-- 👩‍🎓 Sou apaixonada pelo mundo da tecnologia, café e livros de fantasia
+- 👩‍🎓 Sou apaixonada pelo mundo da tecnologia, e livros de fantasia
 - 📈 Estou em constante evolução para atuar na Engenharia de Software, com foco em **desenvolvimento Full Stack.**
 - 📧 Entre em contato comigo: jadesampaiomelo@gmail.com
 
